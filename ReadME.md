@@ -79,7 +79,7 @@ Additional notes to deploy in real traffic environment
 
 ## Versioning
 
-We use [GitLab](http://gitlab.com/) for versioning. For the versions available, see the [this repository](https://github.com/krissnnaa/CuckooVPP). 
+We use [GitLab](http://github.com/) for versioning. For the versions available, see the [this repository](https://github.com/cuckoovpp/CuckooVPP). 
 
 ## Authors
 
